@@ -1,7 +1,7 @@
 # Rep2_SK
-# Simple game of Spacecraft 
+Simple game of Spacecraft
 
-    import pygame
+	import pygame
     pygame.init()
 
     window=pygame.display.set_mode((1270,760))
