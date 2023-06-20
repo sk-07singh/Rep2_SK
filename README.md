@@ -14,8 +14,8 @@
                 <img src="SK.jpeg" height="300" title="Sunny Kumar">
             </div>
             <div>
-                <p> I am a student of NIT Srinagar, I've joined this university in 2021 and persuing my Engineering degree in B-Tech with specialisation in Computer Science and Technology. Currently I'm in 2<sup>nd</sup> Year, and gaining knowledge in Internet and Web Technology.
-                    Now having fun with Web Devlopment.. 
+                <p> I am a student of NIT Srinagar, I've joined this university in 2021 and persuing my Engineering degree in B-Tech with specialisation in Computer Science and Technology.
+                Currently I'm in 3<sup>rd</sup> Year, I'am learning new languages and grasping knowledge in Internet and Web Technology (Web 3), Data Structures and Algo.. 
                 </p>
                 <div style="color:rgb(125, 5, 238)"><big>Basic Info</big>
                     <ul>
